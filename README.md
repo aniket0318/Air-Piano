@@ -1,4 +1,4 @@
-# Air-Piano
+# Air-Piano 
 
 Air-Piano is a hand-tracking MIDI controller that lets you play chords in the D scale using just your fingers and a webcam. It uses OpenCV, MediaPipe, and Pygame's MIDI module to detect hand gestures and play corresponding musical notes.
 
